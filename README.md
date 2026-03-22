@@ -1,0 +1,2 @@
+# LearningShaderInUnity
+Unityでシェーダープログラムの開発の練習をするためのプロジェクトです。
